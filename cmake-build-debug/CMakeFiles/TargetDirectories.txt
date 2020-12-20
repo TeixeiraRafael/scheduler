@@ -1,3 +1,0 @@
-/home/rafael/Workspace/study/furg/sistemas_operacionais/scheduler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/rafael/Workspace/study/furg/sistemas_operacionais/scheduler/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/rafael/Workspace/study/furg/sistemas_operacionais/scheduler/cmake-build-debug/CMakeFiles/scheduler.dir
